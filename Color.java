@@ -1,3 +1,9 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: Nanchiang Yuan
+// Email: nyuan7@wisc.edu
+// CS account: nanchiang
+// Lecturer: Jiazhen Zhou
+
 /*
  *	Color class
  */
@@ -24,6 +30,7 @@ public class Color{
 	 * 	and different from the exisitng color before making the change
 	 */
 	public boolean  changeColor(String newColor){
+ 
     if (isColorValid(newColor) && !newColor.equals(this.color)) {
       this.color = newColor;
       return true;

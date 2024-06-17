@@ -1,3 +1,9 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: Nanchiang Yuan
+// Email: nyuan7@wisc.edu
+// CS account: nanchiang
+// Lecturer: Jiazhen Zhou
+
 /*
  * Test the use of the Color method
  */
